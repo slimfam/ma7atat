@@ -27,12 +27,10 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.alkarmatv.com/2023/08/New-GEN-LOGO-AR-Red-SA-150x150.png" group-title="Christian",Alkarma Youth
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://copticorthodox.church/wp-content/uploads/2021/02/enti-11.png" group-title="Christian",AghapyTV
+#EXTINF:-1 tvg-logo="https://copticorthodox.church/wp-content/uploads/2021/02/enti-11.png" group-title="Christian",Aghapy  TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Lebanon
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Israel",ספורט 1
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/l/o/5/5767.1436876858.png" group-title="Christian",ABN
 https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQH9uF6bout5sQ/company-logo_200_200/company-logo_200_200/0/1630544646792/aramaic_broadcasting_network_logo?e=2147483647&v=beta&t=yPtk9eSFwjUiE5I5XPSddVCEjuMsLn5eryWxd1Lvhyk" group-title="Christian",ABNsat
