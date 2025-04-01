@@ -41,8 +41,6 @@ https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rd8aUigzGlmtk6HHZSSZ2R-nVkfS3yccZ5zvfNKX0GiTpunIhBjzo9AOojDzyvUJ" group-title="Christian",Suboro TV
 https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://alfath.tv/logo1.png" group-title="Christian",AlfathTV
-https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8fCnJeNz8lHJzCMr0NingxQjHw43rvquQiWALI33y_UpZ5NsVAs3eAzj4BFA93zKHqE=w3840-h2160-rw" group-title="Lebanon",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8ZFyDZe9qggECqQf0jK6t74U-fbAsicSQA&s" group-title="France",Senses TV
@@ -89,3 +87,5 @@ http://80.79.6.221:25461/smash/public/30
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0J4LbP92RIGPuHYJsFiejVccK2f3Y-RHNVQaZgGBuOvf8aAa7thUVMGqdSftqTY4XME" group-title="",Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://alfath.tv/logo1.png" group-title="Christian",AlfathTV
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
